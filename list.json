@@ -5,6 +5,12 @@
             "url": "https://stau.space/",
             "author": "Sona Tau Estrada Rivera <sona@stau.space>",
             "rss": "https://stau.space/index.xml"
-    }
+        },
+        {
+            "name": "rammy427.github.io",
+            "url": "https://rammy427.github.io/",
+            "author": "Sebastián Andrés Ramírez González <sebastiangonzalez004@gmail.com>",
+            "rss": ""
+        }
   ]
 }
