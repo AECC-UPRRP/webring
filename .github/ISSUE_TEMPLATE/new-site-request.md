@@ -6,11 +6,13 @@ labels: new site request
 assignees: sona-tau
 ---
 
-My site name:
+My site name: 
 
-My site url: 
+My site URL: 
 
-My name and email address: 
+My site's RSS feed: 
+
+My name and E-Mail address: 
 
 A little bit about my site:
 
