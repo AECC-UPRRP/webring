@@ -3,14 +3,8 @@
         {
             "name": "Sona's blog",
             "url": "https://stau.space/",
-            "author": "Sona Tau Estrada Rivera <hello@billhunt.email>",
+            "author": "Sona Tau Estrada Rivera <sona@stau.space>",
             "rss": "https://stau.space/index.xml"
-    },
-    {
-      "name": "Somebody",
-      "url": "https://www.example.com/",
-      "author": "Somebody <somebody@example.com>",
-      "rss": "https://www.example.com/feed.xml"
     }
   ]
 }
