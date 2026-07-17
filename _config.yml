@@ -20,14 +20,13 @@
 
 # START: Customize these things!!!
 
-title: My Super-Great Webring
+title: AECC Webring
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where you tell everyone what your awesome webring is
-  all about.
+  El webring oficial de la AECC. Una manera basica de compartir y mostrar los websites o proyectos de les miembres de la AECC.
 
-baseurl: /webring-starter # the subpath of your site, e.g. /blog
-url: https://githubusername.github.io
-repository: githubusername/webring-starter
+baseurl: /webring # the subpath of your site, e.g. /blog
+url: https://aecc-uprrp.github.io
+repository: AECC-UPRRP/webring
 
 # END: You *can* customize the stuff below but you don't need to.
 
