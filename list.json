@@ -11,6 +11,12 @@
             "url": "https://rammy427.github.io/",
             "author": "Sebastián Andrés Ramírez González <sebastiangonzalez004@gmail.com>",
             "rss": ""
+        },
+        {
+            "name": "des' digital journal",
+            "url": "https://doqmeat.com/",
+            "author": "des <meow@doqmeat.com>",
+            "rss": "https://doqmeat.com/rss.xml"
         }
   ]
 }
