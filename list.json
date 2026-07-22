@@ -17,6 +17,12 @@
             "url": "https://doqmeat.com/",
             "author": "des <meow@doqmeat.com>",
             "rss": "https://doqmeat.com/rss.xml"
+        },
+        {
+            "name": "Noah's JRPG and bio",
+            "url": "https://sagafrontier.neocities.org/",
+            "author": "Noah <avnievesrivera@gmail.com>",
+            "rss": "https://sagafrontier.neocities.org/zonelots/feed.xml"
         }
   ]
 }
